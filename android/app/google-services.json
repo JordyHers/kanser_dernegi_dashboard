@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "702670141287",
+    "project_id": "sosyal-destek-498c2",
+    "storage_bucket": "sosyal-destek-498c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702670141287:android:84f5cc47162c3d127521c2",
+        "android_client_info": {
+          "package_name": "com.example.kanser_dernegi_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702670141287-kfqu47qtveg8a7mo9h51n18q3j2ipc01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanser_dernegi_dashboard",
+            "certificate_hash": "2529c86b86babd66a3ac4f09513c029440181b90"
+          }
+        },
+        {
+          "client_id": "702670141287-povjna26l3uqn58jp4t9m4ot2mtehbfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanser_dernegi_dashboard",
+            "certificate_hash": "f397cf064cbfc1cc234a79c0cffe2ffee4b08ff5"
+          }
+        },
+        {
+          "client_id": "702670141287-k1q8o1jgfl5lla4ipmd4vdlhakv56rri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5xjFT6Ux_z9mjeqaXVnWGtJiG_DakWU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702670141287-k1q8o1jgfl5lla4ipmd4vdlhakv56rri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702670141287:android:1757e878c82befe67521c2",
+        "android_client_info": {
+          "package_name": "com.sosyal.destek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702670141287-15aga9ati104ivnlaodccla2v1a8ks1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sosyal.destek",
+            "certificate_hash": "2529c86b86babd66a3ac4f09513c029440181b90"
+          }
+        },
+        {
+          "client_id": "702670141287-32uspjqh1f8nf3bttmpsnof77gqus49k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sosyal.destek",
+            "certificate_hash": "f397cf064cbfc1cc234a79c0cffe2ffee4b08ff5"
+          }
+        },
+        {
+          "client_id": "702670141287-k1q8o1jgfl5lla4ipmd4vdlhakv56rri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5xjFT6Ux_z9mjeqaXVnWGtJiG_DakWU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702670141287-k1q8o1jgfl5lla4ipmd4vdlhakv56rri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
